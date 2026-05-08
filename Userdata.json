@@ -130,6 +130,12 @@
         "key": "AG6J-SD67-77",
         "expirydate": "01-06-2026",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "eea7e3acc0899fb3",
+        "key": "V6FD-YU5J-7K",
+        "expirydate": "18-05-2026",
+        "Allowoffline": false
+    },
     
 ]
