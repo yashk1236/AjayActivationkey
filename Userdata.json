@@ -22,5 +22,11 @@
         "key": "JHG5-YY5V-66",
         "expirydate": "04-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "09ec956ef2aec966",
+        "key": "VVBH-7788-11",
+        "expirydate": "04-06-2026",
+        "Allowoffline": false
     }
 ]
