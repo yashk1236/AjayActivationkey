@@ -124,6 +124,12 @@
         "key": "Y7JK-O7VB-YD",
         "expirydate": "01-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4c0ada92a368eb5",
+        "key": "AG6J-SD67-77",
+        "expirydate": "01-06-2026",
+        "Allowoffline": false
     }
     
 ]
