@@ -88,6 +88,12 @@
         "key": "VB55-HhJK-77",
         "expirydate": "01-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1ad6edc3f5a42cb0",
+        "key": "KM5G-Y7H8-89",
+        "expirydate": "16-05-2026",
+        "Allowoffline": false
     }
     
 ]
