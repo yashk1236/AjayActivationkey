@@ -112,6 +112,12 @@
         "key": "6778-66JK66-66",
         "expirydate": "05-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "51e75586213cf5a4",
+        "key": "66778899",
+        "expirydate": "27-05-2026",
+        "Allowoffline": false
     }
     
 ]
