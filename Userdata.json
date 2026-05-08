@@ -46,5 +46,11 @@
         "key": "DEFF-E420-18",
         "expirydate": "23-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "99b0950521e94af5",
+        "key": "KJ67-JK77-88",
+        "expirydate": "27-05-2026",
+        "Allowoffline": false
     }
 ]
