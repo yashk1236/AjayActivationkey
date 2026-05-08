@@ -40,5 +40,11 @@
         "key": "KJ66-889H-78",
         "expirydate": "03-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a71cf7cf66fe67a9",
+        "key": "DEFF-E420-18",
+        "expirydate": "23-05-2026",
+        "Allowoffline": false
     }
 ]
