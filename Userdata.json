@@ -64,6 +64,12 @@
         "key": "JKM8-R7HJ-99",
         "expirydate": "14-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f1674c3a81da1fd3",
+        "key": "KK77-7JHD-55",
+        "expirydate": "04-06-2026",
+        "Allowoffline": false
     }
     
 ]
