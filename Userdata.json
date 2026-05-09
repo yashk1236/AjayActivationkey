@@ -167,4 +167,10 @@
         "expirydate": "11-05-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "e2c5bc87fb7dfebb",
+        "key": "KKK6-234J-55",
+        "expirydate": "10-05-2026",
+        "Allowoffline": false
+    },
 ]
