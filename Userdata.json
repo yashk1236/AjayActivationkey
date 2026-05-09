@@ -155,5 +155,11 @@
         "expirydate": "11-05-2024",
         "Allowoffline": false
     },
+    {
+        "device_id": "dd58f1a0093201f3",
+        "key": "77JK-66AA-22",
+        "expirydate": "24-05-2026",
+        "Allowoffline": false
+    },
     
 ]
