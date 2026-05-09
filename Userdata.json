@@ -14,7 +14,7 @@
     {
         "device_id": "aad38588e1fc1de5",
         "key": "surend1",
-        "expirydate": "20-06-2026",
+        "expirydate": "05-06-2026",
         "Allowoffline": false
     },
     {
@@ -160,6 +160,6 @@
         "key": "77JK-66AA-22",
         "expirydate": "24-05-2026",
         "Allowoffline": false
-    },
+    }
     
 ]
