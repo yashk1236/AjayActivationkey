@@ -185,4 +185,11 @@
         "expirydate": "19-05-2026",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "d83c1a122a614524",
+        "key": "JK67-AAA6-JH",
+        "expirydate": "14-06-2026",
+        "Allowoffline": false
+    },
 ]
