@@ -192,4 +192,10 @@
         "expirydate": "14-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "f04946c1bf903696",
+        "key": "PP89-AS68-12",
+        "expirydate": "18-06-2026",
+        "Allowoffline": false
+    },
 ]
