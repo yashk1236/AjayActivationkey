@@ -210,4 +210,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "b5f177f230a54649",
+        "key": "LLL8-07Jk-78",
+        "expirydate": "19-06-2026",
+        "Allowoffline": false
+    },
 ]
