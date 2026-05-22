@@ -216,4 +216,10 @@
         "expirydate": "19-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "470ca0d6cb290cc0",
+        "key": "DDK7-JJK7-A1",
+        "expirydate": "29-05-2026",
+        "Allowoffline": false
+    },
 ]
