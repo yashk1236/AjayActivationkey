@@ -228,4 +228,10 @@
         "expirydate": "01-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "48e428b385eba878",
+        "key": "7890-ASD5-Q2",
+        "expirydate": "22-06-2026",
+        "Allowoffline": false
+    },
 ]
