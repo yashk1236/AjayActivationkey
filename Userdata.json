@@ -222,4 +222,10 @@
         "expirydate": "29-05-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "9a30c60d72975f62",
+        "key": "789J-457A-6F",
+        "expirydate": "01-06-2026",
+        "Allowoffline": false
+    },
 ]
