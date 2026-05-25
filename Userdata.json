@@ -247,4 +247,10 @@
         "expirydate": "24-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "55d12c870d33d4d3",
+        "key": "A456-456H-D5",
+        "expirydate": "24-06-2026",
+        "Allowoffline": false
+    },
 ]
