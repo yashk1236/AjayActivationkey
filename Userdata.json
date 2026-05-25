@@ -240,4 +240,11 @@
         "expirydate": "24-06-2026",
         "Allowoffline": false
     },
+    
+    {
+        "device_id": "ec79a8abdad50cad",
+        "key": "143J-567G-T4",
+        "expirydate": "24-06-2026",
+        "Allowoffline": false
+    },
 ]
