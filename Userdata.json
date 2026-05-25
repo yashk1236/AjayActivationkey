@@ -234,4 +234,10 @@
         "expirydate": "22-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "0ed8ba2c0fe876fb",
+        "key": "ASTY6-7HJ-AS",
+        "expirydate": "24-06-2026",
+        "Allowoffline": false
+    },
 ]
