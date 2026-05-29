@@ -283,4 +283,10 @@
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "ae2e09611eccebfa",
+        "key": "Rishab1",
+        "expirydate": "27-06-2026",
+        "Allowoffline": false
+    },
 ]
