@@ -277,4 +277,10 @@
         "expirydate": "29-05-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "60eab523f7b1e1e5",
+        "key": "RTOQJKLP",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
 ]
