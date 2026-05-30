@@ -301,4 +301,10 @@
         "expirydate": "26-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "24f92459c1e49318",
+        "key": "WRTGHJIO7",
+        "expirydate": "29-06-2026",
+        "Allowoffline": false
+    },
 ]
