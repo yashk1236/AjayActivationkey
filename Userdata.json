@@ -307,4 +307,10 @@
         "expirydate": "29-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "770d68471b87fa98",
+        "key": "ak6780",
+        "expirydate": "28-06-2026",
+        "Allowoffline": false
+    },
 ]
