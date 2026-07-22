@@ -325,4 +325,10 @@
         "expirydate": "25-06-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "934838146325b2af",
+        "key": "ak123",
+        "expirydate": "29-08-2026",
+        "Allowoffline": false
+    },
 ]
