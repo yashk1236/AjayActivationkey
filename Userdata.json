@@ -349,4 +349,10 @@
         "expirydate": "8-08-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "3649ccf4852f873d",
+        "key": "VIP-UI2E8GBO8H",
+        "expirydate": "23-08-2026",
+        "Allowoffline": false
+    },
 ]
