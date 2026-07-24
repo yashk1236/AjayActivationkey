@@ -355,4 +355,10 @@
         "expirydate": "23-08-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "eae668655f18cf16",
+        "key": "BMMKE-F7IGN",
+        "expirydate": "25-07-2026",
+        "Allowoffline": false
+    },
 ]
