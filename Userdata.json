@@ -373,4 +373,10 @@
         "expirydate": "30-08-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "124823a443dce489",
+        "key": "MOK1K-C55KW",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
+    },
 ]
