@@ -378,5 +378,10 @@
         "key": "MOK1K-C55KW",
         "expirydate": "15-08-2026",
         "Allowoffline": false
+    },{
+        "device_id": "ed1e410178cf4b56",
+        "key": "DPM-AYJH7Z",
+        "expirydate": "05-08-2026",
+        "Allowoffline": false
     },
 ]
